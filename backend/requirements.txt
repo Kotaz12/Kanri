@@ -1,0 +1,1 @@
+fastapi==0.111.0\nuvicorn[standard]==0.29.0\nmotor==3.4.0\npymongo==4.7.2\npydantic==2.7.1\npydantic-settings==2.2.1\npython-jose[cryptography]==3.3.0\npasslib[bcrypt]==1.7.4\npython-multipart==0.0.9\npython-dotenv==1.0.1\nmangum==0.17.0\n
